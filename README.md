@@ -3,6 +3,7 @@
 - 🔭 Trabalhando no Front-End e Back-And do site de Inovação do CEFET/RJ
 - 🌱Estou aprendendo C e C++
 - 😄 Pronouns: ele/dele
+- I'm gay 🏳️‍🌈
 
 <div>
   <a href="https://github.com/renanlim">
