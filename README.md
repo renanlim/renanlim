@@ -1,6 +1,7 @@
 ### <Olá!! Seja bem-vindo(a) ao meu perfil, eu sou o Renan Lima> 👋🏽
 
 - 🔭 Trabalhando no Front-End e Back-And do site de Inovação do CEFET/RJ
+- Estagiando na MajovDev Consultoria em Tecnologia da Informacão
 - 🌱Estou aprendendo C e C++
 - 😄 Pronouns: ele/dele
 - I'm gay 🏳️‍🌈
