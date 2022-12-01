@@ -1,8 +1,8 @@
-### <Olá!! Seja bem-vindo(a) ao meu perfil, eu sou o Renan Lima> 👋🏽
+### <Hello!!! Welcome to my profile, I'm Renan Lima> 👋🏽
 
-- Trabalhando no Front-End e Back-And do site de Inovação do CEFET/RJ
-- Estagiando na MajovDev Consultoria em Tecnologia da Informacão
-- Estou aprendendo JavaScript e NodeJs
+- Trainee at MajovDev Consultoria em Tecnologia da Informação
+- I'm learning JavaScript and NodeJs
+
 
 <div>
   <a href="https://github.com/renanlim">
