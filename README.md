@@ -1,6 +1,6 @@
 ### <Hello!!! Welcome to my profile, I'm Renan Lima> 👋🏽
 
-I am a Computer Science student at CEFET/RJ, currently working as an intern at an IT consulting company. I am passionate about web development and constantly honing my skills. On my GitHub, you will find projects that I have been working on, mainly in the following areas:
+I am a Computer Science student at CEFET/RJ, currently working as an intern at an IT consulting company MajovDev. I am passionate about web development and constantly honing my skills. On my GitHub, you will find projects that I have been working on, mainly in the following areas:
 
 Maintaining web applications using HTML, CSS, JavaScript, and React: I have experience in front-end development, utilizing these technologies to create attractive and responsive interfaces. I enjoy finding creative and efficient solutions to web development challenges.
 
