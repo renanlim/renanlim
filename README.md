@@ -1,7 +1,14 @@
 ### <Hello!!! Welcome to my profile, I'm Renan Lima> 👋🏽
 
-- Trainee at MajovDev Consultoria em Tecnologia da Informação
-- I'm learning JavaScript and NodeJs
+I am a Computer Science student at CEFET/RJ, currently working as an intern at an IT consulting company. I am passionate about web development and constantly honing my skills. On my GitHub, you will find projects that I have been working on, mainly in the following areas:
+
+Maintaining web applications using HTML, CSS, JavaScript, and React: I have experience in front-end development, utilizing these technologies to create attractive and responsive interfaces. I enjoy finding creative and efficient solutions to web development challenges.
+
+Creating and maintaining RESTful APIs using Node.js and TypeScript: I also possess knowledge in back-end development, particularly in building and maintaining RESTful APIs. I use Node.js and TypeScript to develop robust and scalable services, ensuring effective communication between the interface and the server.
+
+Performing database maintenance using PostgreSQL: I have experience in managing databases, specifically with PostgreSQL. I conduct maintenance tasks, optimization, and complex querying to ensure data integrity and efficiency.
+
+I am constantly seeking to learn and apply new technologies and development practices. My GitHub reflects my commitment to delivering quality solutions and my passion for the programming world. Feel free to explore my projects and reach out to me for any questions or collaboration opportunities.
 
 
 <div>
