@@ -4,12 +4,8 @@ I am a Computer Science student at CEFET/RJ, currently working as an intern at a
 
 I am constantly seeking to learn and apply new technologies and development practices. My GitHub reflects my commitment to delivering quality solutions and my passion for the programming world. Feel free to explore my projects and reach out to me for any questions or collaboration opportunities.
 
-
-<div>
-  <a href="https://github.com/renanlim">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=renanlim&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renanlim&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
+![Renan GitHub stats](https://github-readme-stats.vercel.app/api?username=renanlim&show_icons=true&theme=transparent&title_color=2643c9&text_color=f0f0f0&icon_color=2643c9&border_color=2643c9)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=renanlim&layout=compact&theme=transparent&title_color=2643c9&text_color=f0f0f0&icon_color=2643c9&border_color=2643c9)
  
 <div style="display: inline_block"><br>
   <img align="center" alt="renan-JavaScript" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
