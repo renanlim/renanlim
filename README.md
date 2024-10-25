@@ -1,9 +1,5 @@
 ### <Hello!!! Welcome to my profile, I'm Renan Lima> 👋🏽
 
-I am a Computer Science student at CEFET/RJ, currently working as an intern at an IT consulting company MajovDev. I am passionate about web development and constantly honing my skills.
-
-I am constantly seeking to learn and apply new technologies and development practices. My GitHub reflects my commitment to delivering quality solutions and my passion for the programming world. Feel free to explore my projects and reach out to me for any questions or collaboration opportunities.
-
 ![Renan GitHub stats](https://github-readme-stats.vercel.app/api?username=renanlim&show_icons=true&theme=transparent&title_color=2643c9&text_color=f0f0f0&icon_color=2643c9&border_color=2643c9)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=renanlim&layout=compact&theme=transparent&title_color=2643c9&text_color=f0f0f0&icon_color=2643c9&border_color=2643c9)
  
